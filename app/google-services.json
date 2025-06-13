@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065378855298",
+    "project_id": "vendas-de-cone-trufado",
+    "storage_bucket": "vendas-de-cone-trufado.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065378855298:android:9aa7e6b7b51e5b03a2379b",
+        "android_client_info": {
+          "package_name": "com.example.af_app_venda_cone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdmRB5jgS_5qsXg0fU_Mmd6CWV5-gB78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065378855298:android:8965d45c0b43f350a2379b",
+        "android_client_info": {
+          "package_name": "com.example.af_vendacones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdmRB5jgS_5qsXg0fU_Mmd6CWV5-gB78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
